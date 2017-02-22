@@ -1,2 +1,2 @@
 # PokeFinder
-PokeFinder app using swift 3
+PokeFinder app using swift 3, firebase, geofire
